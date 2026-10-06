@@ -1,0 +1,28 @@
+{
+  "item": {
+    "id": "com.alter34.safebox",
+    "restype": "quick_app",
+    "name": "暗区保险箱",
+    "description": "想要在红米手表上体验开保险的快感？\n暗区保险箱满足你！\n点开即搜，畅享摸金快感\n明/暗/「永远鲜红的幼月」\n三色底图，让摸保险从不枯燥\n点击查看物品品质/价格/重量/详细说明？均可做到！\n更可以按物品价值从高到低进行排序，来看看谁才是暗区手气王！\n更重要的是——该应用免费！\n\n点击保险箱字样即可进入设置界面，点一下作者信息即可展开捐赠码，不过——量力而行！仅是1分，也是心意！",
+    "preview": [
+      "media/ui_preview.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover_3x2.png",
+    "author": [
+      {
+        "name": "AAA6001",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw6": {
+      "version": "1.2.1",
+      "file_name": "downloads/com.alter34.safebox.release.1.2.1.rpk",
+      "versionCode": 10
+    }
+  },
+  "ext": {}
+}
